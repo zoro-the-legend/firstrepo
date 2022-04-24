@@ -1,0 +1,19 @@
+**github push code new repo**
+1)git init:
+it will create .git file initialize git repo
+**normal-stash-commit-push 
+2)git add *
+to add file to staging
+3)git status:
+ to check file added to staging
+4)git commit -m "message"
+after commiting u can push to github repo
+5)git remote add origin <link>
+to connect remote repo to local repo
+6)git push -u origin main
+by default master branch
+
+**cloning repo
+git clone <link>
+
+*git pull origin master :whtever new code updated will download
