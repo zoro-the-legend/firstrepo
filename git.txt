@@ -5,7 +5,7 @@ it will create .git file initialize git repo
 2)git add *
 to add file to stagin
 3)git status:
- to check file added to stagin
+ to check file added to staging
 4)git commit -m "message"
 after commiting u can push to github repo
 5)git remote add origin <link>
@@ -17,3 +17,6 @@ by default master branch
 git clone <link>
 
 *git pull origin master :whtever new code updated will download
+**git merge dev:
+1)first switch into master
+2)pull latest code and merge into dev
