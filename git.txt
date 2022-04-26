@@ -12,7 +12,7 @@ after commiting u can push to github repo
 to connect remote repo to local repo
 6)git push -s origin main
 by default master branch
-
+ 
 **cloning repo
 git clone <link>
 
