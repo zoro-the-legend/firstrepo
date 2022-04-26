@@ -10,7 +10,7 @@ to add file to stagin
 after commiting u can push to github repo
 5)git remote add origin <link>
 to connect remote repo to local repo
-6)git push origin main
+6)git push -h origin main
 by default master branch
 
 **cloning repo
