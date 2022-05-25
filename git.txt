@@ -1,4 +1,4 @@
-**github push code new repo**
+123**github push code new repo**
 1)git init:
 it will create .git file initialize git repo
 **normal-stash-commit-push 
