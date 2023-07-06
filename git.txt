@@ -1,5 +1,5 @@
 123**github push code new repo**
-1)git init:
+1)git init:abc
 it will create .git file initialize git repo
 **normal-stash-commit-push 
 2)git add *
