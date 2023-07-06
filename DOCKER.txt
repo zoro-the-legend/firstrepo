@@ -20,4 +20,5 @@ docker cp webapp.war tomcat-c:/usr/local/tomcat/webapps/webapp.war
 docker kill $(docker ps -q)
 docker container prune
 docker image prune -a
+anc
  
